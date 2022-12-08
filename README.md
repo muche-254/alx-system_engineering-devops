@@ -1,1 +1,2 @@
-second readme
+#!/bin/bash
+second commit
